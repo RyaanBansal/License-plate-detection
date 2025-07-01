@@ -1,0 +1,12 @@
+opencv-python
+pytesseract
+Pillow
+reportlab
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+sentence-transformers
+faiss-cpu
+pypdf
+python-dotenv
